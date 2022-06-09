@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="email">Introduce tu email</string>
+    <string name="contra">Introduce tu Contraseña</string>
+    <string name="recordarcontra">Repite la contraseña</string>
+    <string name="iniciarses">Iniciar Sesion</string>
+    <string name="signup">¿No estas registrado? REGISTRATE</string>
+    <string name="registrarse">REGISTRARSE</string>
+
+
+</resources>
