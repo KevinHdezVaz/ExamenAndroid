@@ -3,8 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_colaboladores.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3177083333333333" />
+        <entry key="app/src/main/res/layout/activity_main_activityy.xml" value="0.24139492753623187" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/layout/activity_maps2.xml" value="0.33177083333333335" />
         <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.33177083333333335" />
         <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/layout/app_bar.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/layout/content_main_activityy.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/layout/info_popup.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/layout/recyclerview_adapter.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/menu/main_activityy.xml" value="0.33177083333333335" />
       </map>
     </option>
   </component>
