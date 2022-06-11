@@ -2,6 +2,10 @@ package vazk.app.examenandroid.colaboladores.mapa.model;
 
 import com.google.gson.annotations.SerializedName;
 
+
+
+import com.google.gson.annotations.SerializedName;
+
 public class LocationModel {
 
     @SerializedName("City")

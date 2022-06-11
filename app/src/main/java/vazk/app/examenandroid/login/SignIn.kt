@@ -111,10 +111,7 @@ class SignIn : AppCompatActivity() {
             .addOnSuccessListener(this) { authResult ->
                 startActivity(Intent(this, MainActivity::class.java))
                 finish()
-                Toast.makeText(
-                    this, "Authentication chida.",
-                    Toast.LENGTH_SHORT
-                ).show()
+
             }
             .addOnFailureListener(this) { e ->
                 Toast.makeText(

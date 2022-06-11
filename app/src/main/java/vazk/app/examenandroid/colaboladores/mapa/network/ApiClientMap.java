@@ -6,9 +6,11 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class ApiClientMap {
 
     public static final String base_url ="https://mocki.io";
-public static Retrofit retrofit = null;
 
-public static Retrofit getRetrofit(){
+    public static Retrofit retrofit = null;
+
+    public static Retrofit getRetrofit(){
+
     if(retrofit== null){
         retrofit = new Retrofit.Builder()
                 .baseUrl(base_url)

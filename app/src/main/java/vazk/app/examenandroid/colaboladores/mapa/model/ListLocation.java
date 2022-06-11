@@ -8,8 +8,12 @@ public class ListLocation {
 
     @SerializedName("data")
     private List<LocationModel> mData;
+    //esto es un objeto json
+    //de esta manera se declara
 
     public List<LocationModel> getmData() {
+
         return mData;
+
     }
 }

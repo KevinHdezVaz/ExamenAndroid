@@ -10,13 +10,15 @@
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
+        android:background="@color/purple_500"
+
+        app:title="Menú"
+        app:titleTextColor="@android:color/white"
         android:elevation="4dp"
-        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
-        app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+        />
 
     <LinearLayout
         android:id="@+id/linearLayout"
@@ -28,6 +30,7 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/btnColabo"
             android:layout_marginBottom="100dp"
             android:padding="15dp"
             android:text="@string/colaboradores" />
@@ -35,6 +38,7 @@
 
         <Button
             android:layout_width="wrap_content"
+            android:id="@+id/btnAgregar"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:padding="15dp"
